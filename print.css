@@ -1,0 +1,24 @@
+.print-btn,.cwt__footer,.bs-docs-header-two, .bs-docs-header {display:none!important}
+.label {border:none}
+@page {
+  size: auto; margin: 15mm 15mm 15mm 15mm;
+}
+
+  .class_trajet { page-break-inside:auto; }
+    .class_trajet    { page-break-inside:avoid; page-break-after:auto; }
+    .h_class, .hide_checkbox, .label7, .rowlab {
+    position: relative;
+}
+
+.col-lg-10 {
+    width: 100%!important;
+}
+
+
+body  
+{ 
+    /* this affects the margin on the content before sending to printer */ 
+    margin: 0px;  
+} 
+
+.gn,h4 a .a,.cl {display:none!important}
